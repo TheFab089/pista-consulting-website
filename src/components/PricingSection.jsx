@@ -17,8 +17,8 @@ export function PricingSection() {
   const packages = [
     {
       name: "PISTA Starter",
-      price: "5.000",
-      monthlyPrice: "500",
+      price: "15.000",
+      monthlyPrice: "1.500",
       description: "Für kleine Unternehmen bis 10 Mitarbeiter",
       subtitle: "Odoo Community Edition - Ideal für den Einstieg",
       icon: Users,
@@ -34,8 +34,8 @@ export function PricingSection() {
     },
     {
       name: "PISTA Professional",
-      price: "15.000",
-      monthlyPrice: "1.500",
+      price: "25.000",
+      monthlyPrice: "2.500",
       description: "Für wachsende Unternehmen 10-50 Mitarbeiter",
       subtitle: "Odoo Enterprise - Vollständige Integration",
       icon: Building,
